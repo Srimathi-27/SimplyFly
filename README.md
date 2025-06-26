@@ -29,16 +29,16 @@ A secure backend system for booking and managing flights, built using Java and S
 6. repository – Data access (JPA)
 7. security – JWT utilities & filters
 8. config – App & Swagger configuration
-9. excaption -  custom exceptions and global exception handler
+9. exception -  custom exceptions and global exception handler
 
 ## Sample Roles & Users
 
-👤 Admin: admin@example.com / Admin@123
-🧑‍✈️ Flight Owner: owner@example.com / owner@123
-🙋‍♀️ User: srimathi@example.com / sri@123
+1. Admin: admin@example.com / Admin@123
+2. Flight Owner: flightowner@example.com / flightowner@123
+3. User: srimathi@example.com / sri@123
 
 ## API Documentation
 Access via Swagger UI:
 📍 http://localhost:8081/swagger-ui/index.html
 
-## Use Authorize (🔑 icon) with: Bearer <token>
+## Use Authorize (🔑 icon) with: Bearer token
