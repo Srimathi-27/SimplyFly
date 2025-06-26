@@ -21,15 +21,15 @@ A secure backend system for booking and managing flights, built using Java and S
 
 ## Key Packages
 
-controller – API endpoints
-dto – Request & response data structures
-entity – Database models (User, Flight, Booking, etc.)
-service – service interface
-service implementation - Business logic
-repository – Data access (JPA)
-security – JWT utilities & filters
-config – App & Swagger configuration
-excaption -  custom exceptions and global exception handler
+1. controller – API endpoints
+2. dto – Request & response data structures
+3. entity – Database models (User, Flight, Booking, etc.)
+4. service – service interface
+5. service implementation - Business logic
+6. repository – Data access (JPA)
+7. security – JWT utilities & filters
+8. config – App & Swagger configuration
+9. excaption -  custom exceptions and global exception handler
 
 ## Sample Roles & Users
 
